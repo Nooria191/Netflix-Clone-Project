@@ -12,4 +12,4 @@ Use of Flexbox and Grid for layout
 Hover effects for better user interaction
 
 ## Project ScreenShot
-![Netflix-Clone-Project](Project ScreenShot.png)
+![Netflix-Clone-Project](Project SS.png)
